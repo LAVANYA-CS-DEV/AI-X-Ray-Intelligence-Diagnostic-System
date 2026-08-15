@@ -186,9 +186,6 @@ It is **not a substitute for professional medical diagnosis**.
 ## 👨‍💻 Author
 
 **LAVANYA CS**
-Embedded Systems & AI Developer
-Founder — Indionics
-
 ---
 
 ## ⭐ Support
